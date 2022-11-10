@@ -196,7 +196,9 @@ justify-content: space-around;
   
 }
 
-.promo {
+.hero {
+  padding-top: 200px;
+  padding-bottom: 200px;
   background-color: var(--footer-background-color);
 }
 
